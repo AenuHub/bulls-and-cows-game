@@ -1,1 +1,1 @@
-Simple Last Pencil game implemented with Java, for Hyperskill Java Backend Path
+Simple Bulls and Cows guessing game implemented with Java, for Hyperskill Java Backend Path
